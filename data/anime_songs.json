@@ -286,5 +286,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Murder Mystery of the Dead",
+    "anime_romaji": "",
+    "year": 2024,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Lorelei",
+    "song_title_original": "ローレライ",
+    "artist_romaji": "Maki Kawase & Machico",
+    "artist_original": "河瀬茉希 & Machico",
+    "composer_romaji": "Mayuko Kubota",
+    "composer_original": "久保田茉由子",
+    "arranger_romaji": "Mayuko Kubota",
+    "arranger_original": "久保田茉由子",
+    "episode": "6",
+    "time_start": "17:22",
+    "time_end": "18:04",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33590",
+    "mal_url": "https://myanimelist.net/anime/59892",
+    "issues": [],
+    "notes": ""
   }
 ]

@@ -310,5 +310,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Gachiakuta",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "5",
+    "time_start": "5:43",
+    "time_end": "6:58",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32808",
+    "mal_url": "https://myanimelist.net/anime/59062",
+    "issues": [],
+    "notes": "Need to check lyrics"
   }
 ]

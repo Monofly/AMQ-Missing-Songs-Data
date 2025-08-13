@@ -382,5 +382,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Bullet/Bullet",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Gotcha Samba -ROCK VERSION-",
+    "song_title_original": "ガッチャサンバ -ROCK VERSION-",
+    "artist_romaji": "Hiroaki Tsutsumi",
+    "artist_original": "",
+    "composer_romaji": "Hiroaki Tsutsumi",
+    "composer_original": "",
+    "arranger_romaji": "Hiroaki Tsutsumi",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "4:44",
+    "time_end": "6:45",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34070",
+    "mal_url": "https://myanimelist.net/anime/53722",
+    "issues": [],
+    "notes": ""
   }
 ]

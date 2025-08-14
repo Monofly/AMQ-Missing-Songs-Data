@@ -528,5 +528,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Hell Teacher: Jigoku Sensei Nube (TV 2)",
+    "anime_romaji": "Jigoku Sensei Nube (TV 2)",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "7",
+    "time_start": "17:48",
+    "time_end": "19:19",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32957",
+    "mal_url": "https://myanimelist.net/anime/59342",
+    "issues": [],
+    "notes": ""
   }
 ]

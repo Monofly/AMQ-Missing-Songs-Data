@@ -600,5 +600,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Let's Go Karaoke!",
+    "anime_romaji": "Karaoke Iko!",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "4",
+    "time_start": "21:41",
+    "time_end": "22:12",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33755",
+    "mal_url": "https://myanimelist.net/anime/60131",
+    "issues": [],
+    "notes": ""
   }
 ]

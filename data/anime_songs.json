@@ -624,5 +624,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Takopi's Original Sin",
+    "anime_romaji": "Takopii no Genzai",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Lucky Days",
+    "song_title_original": "Lucky Days",
+    "artist_romaji": "Yoshiaki Fujisawa feat. Kanako Kishi",
+    "artist_original": "",
+    "composer_romaji": "Yoshiaki Fujisawa",
+    "composer_original": "",
+    "arranger_romaji": "Yoshiaki Fujisawa",
+    "arranger_original": "",
+    "episode": "3",
+    "time_start": "16:52",
+    "time_end": "18:17",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34142",
+    "mal_url": "https://myanimelist.net/anime/60489",
+    "issues": [],
+    "notes": "Not sure if enough lines"
   }
 ]

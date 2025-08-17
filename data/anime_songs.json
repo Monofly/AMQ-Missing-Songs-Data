@@ -768,5 +768,29 @@
     "mal_url": "https://myanimelist.net/anime/53447",
     "issues": [],
     "notes": "Need to check lyrics"
+  },
+  {
+    "anime_en": "To Be Hero X",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "JEOPARDY",
+    "song_title_original": "",
+    "artist_romaji": "Benjamin & mpi",
+    "artist_original": "",
+    "composer_romaji": "Hiroyuki Sawano",
+    "composer_original": "",
+    "arranger_romaji": "Hiroyuki Sawano",
+    "arranger_original": "",
+    "episode": "20",
+    "time_start": "17:14",
+    "time_end": "20:05",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27609",
+    "mal_url": "https://myanimelist.net/anime/53447",
+    "issues": [],
+    "notes": ""
   }
 ]

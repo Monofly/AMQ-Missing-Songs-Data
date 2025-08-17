@@ -744,5 +744,29 @@
     "mal_url": "https://myanimelist.net/anime/58913",
     "issues": [],
     "notes": "cut out at 15:34-15:39"
+  },
+  {
+    "anime_en": "To Be Hero X",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "20",
+    "time_start": "11:11",
+    "time_end": "14:46",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27609",
+    "mal_url": "https://myanimelist.net/anime/53447",
+    "issues": [],
+    "notes": "Need to check lyrics"
   }
 ]

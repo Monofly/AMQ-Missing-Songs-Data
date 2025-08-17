@@ -790,7 +790,9 @@
     "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27609",
     "mal_url": "https://myanimelist.net/anime/53447",
-    "issues": [],
-    "notes": ""
+    "issues": [
+      "unimportant"
+    ],
+    "notes": "only 20s longer than the one already in"
   }
 ]

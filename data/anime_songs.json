@@ -842,5 +842,29 @@
     "mal_url": "https://myanimelist.net/anime/59597",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Turkey! Time to Strike",
+    "anime_romaji": "Turkey!",
+    "year": 2025,
+    "season": "Summer",
+    "type": "ED",
+    "song_title_romaji": "Strike freedom!",
+    "song_title_original": "Strike freedom!",
+    "artist_romaji": "Azami",
+    "artist_original": "アザミ",
+    "composer_romaji": "Azami",
+    "composer_original": "アザミ",
+    "arranger_romaji": "Azami",
+    "arranger_original": "アザミ",
+    "episode": "7",
+    "time_start": "21:03",
+    "time_end": "22:55",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26773",
+    "mal_url": "https://myanimelist.net/anime/54028",
+    "issues": [],
+    "notes": ""
   }
 ]

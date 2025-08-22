@@ -96,6 +96,30 @@
     "notes": ""
   },
   {
+    "anime_en": "",
+    "anime_romaji": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "7",
+    "time_start": "10:19",
+    "time_end": "12:10",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35191",
+    "mal_url": "https://myanimelist.net/anime/61239",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Bullet/Bullet",
     "anime_romaji": "",
     "year": 2025,
@@ -954,13 +978,13 @@
     "arranger_romaji": "",
     "arranger_original": "",
     "episode": "7",
-    "time_start": "10:19",
-    "time_end": "12:10",
+    "time_start": "13:55",
+    "time_end": "15:03",
     "unidentified": true,
-    "clean_available": false,
+    "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35191",
     "mal_url": "https://myanimelist.net/anime/61239",
     "issues": [],
-    "notes": ""
+    "notes": "Probably clean enough from the show?"
   }
 ]

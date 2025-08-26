@@ -698,6 +698,30 @@
     "notes": ""
   },
   {
+    "anime_en": "Human Lost",
+    "anime_romaji": "Human Lost: Ningen Shikkaku",
+    "year": 2019,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "13:15",
+    "time_end": "15:01",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21993",
+    "mal_url": "https://myanimelist.net/anime/39584",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "",
     "anime_romaji": "Iya na Kao Sare Nagara Opantsu Misete Moraitai Ver.3.0 (Kari)",
     "year": 2023,
@@ -1295,7 +1319,7 @@
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26335",
     "mal_url": "https://myanimelist.net/anime/53026",
     "issues": [],
-    "notes": "OST Tr9"
+    "notes": "OST Tr9, also played at:\nEP 3, 18:28-19:12, 44s"
   },
   {
     "anime_en": "",
@@ -1514,29 +1538,5 @@
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
-  },
-  {
-    "anime_en": "Human Lost",
-    "anime_romaji": "Human Lost: Ningen Shikkaku",
-    "year": 2019,
-    "season": "Spring",
-    "type": "Insert",
-    "song_title_romaji": "",
-    "song_title_original": "",
-    "artist_romaji": "",
-    "artist_original": "",
-    "composer_romaji": "",
-    "composer_original": "",
-    "arranger_romaji": "",
-    "arranger_original": "",
-    "episode": "1",
-    "time_start": "13:15",
-    "time_end": "15:01",
-    "unidentified": true,
-    "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21993",
-    "mal_url": "https://myanimelist.net/anime/39584",
-    "issues": [],
-    "notes": ""
   }
 ]

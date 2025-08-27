@@ -1418,6 +1418,30 @@
     "notes": "Couldn't pinpoint artist from either of them:\nKiyoshi Hiyama, Yasuhiro Kido, Ichiro Nitta, Tokyo Philharmonic Chorus"
   },
   {
+    "anime_en": "Sword Art Online the Movie: Progressive - Scherzo of Deep Night",
+    "anime_romaji": "Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
+    "year": 2022,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "to the next stage",
+    "song_title_original": "to the next stage",
+    "artist_romaji": "Joelle",
+    "artist_original": "Joelle",
+    "composer_romaji": "Yuki Kajiura",
+    "composer_original": "",
+    "arranger_romaji": "Yuki Kajiura",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "3:18",
+    "time_end": "5:58",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24922",
+    "mal_url": "https://myanimelist.net/anime/50275",
+    "issues": [],
+    "notes": "OST Tr2"
+  },
+  {
     "anime_en": "Synduality: Noir",
     "anime_romaji": "",
     "year": 2023,
@@ -1665,8 +1689,8 @@
     "year": 2022,
     "season": "Fall",
     "type": "Insert",
-    "song_title_romaji": "to the next stage",
-    "song_title_original": "to the next stage",
+    "song_title_romaji": "Fuscus the Vacant Colossus",
+    "song_title_original": "Fuscus the Vacant Colossus",
     "artist_romaji": "Joelle",
     "artist_original": "Joelle",
     "composer_romaji": "Yuki Kajiura",
@@ -1674,13 +1698,13 @@
     "arranger_romaji": "Yuki Kajiura",
     "arranger_original": "",
     "episode": "1",
-    "time_start": "3:18",
-    "time_end": "5:58",
+    "time_start": "1:04:58",
+    "time_end": "1:13:48",
     "unidentified": false,
     "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24922",
     "mal_url": "https://myanimelist.net/anime/50275",
     "issues": [],
-    "notes": "OST Tr2"
+    "notes": "OST Tr32\nUnsure how legal this is"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "anime_en": "A Returner's Magic Should Be Special",
+    "anime_romaji": "Kikansha no Mahou wa Tokubetsu desu",
+    "year": 2023,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "12",
+    "time_start": "7:19",
+    "time_end": "9:40",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27613",
+    "mal_url": "https://myanimelist.net/anime/54852",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Anne Shirley",
     "anime_romaji": "",
     "year": 2025,
@@ -1754,32 +1778,6 @@
     "notes": "Need to check lyrics"
   },
   {
-    "anime_en": "To Be Hero X",
-    "anime_romaji": "",
-    "year": 2025,
-    "season": "Spring",
-    "type": "Insert",
-    "song_title_romaji": "JEOPARDY",
-    "song_title_original": "",
-    "artist_romaji": "Benjamin & mpi",
-    "artist_original": "",
-    "composer_romaji": "Hiroyuki Sawano",
-    "composer_original": "",
-    "arranger_romaji": "Hiroyuki Sawano",
-    "arranger_original": "",
-    "episode": "20",
-    "time_start": "17:14",
-    "time_end": "20:05",
-    "unidentified": false,
-    "clean_available": true,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27609",
-    "mal_url": "https://myanimelist.net/anime/53447",
-    "issues": [
-      "unimportant"
-    ],
-    "notes": "only 20s longer than the one already in"
-  },
-  {
     "anime_en": "Undead Unluck",
     "anime_romaji": "",
     "year": 2023,
@@ -1850,29 +1848,5 @@
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
-  },
-  {
-    "anime_en": "A Returner's Magic Should Be Special",
-    "anime_romaji": "Kikansha no Mahou wa Tokubetsu desu",
-    "year": 2023,
-    "season": "Fall",
-    "type": "Insert",
-    "song_title_romaji": "",
-    "song_title_original": "",
-    "artist_romaji": "",
-    "artist_original": "",
-    "composer_romaji": "",
-    "composer_original": "",
-    "arranger_romaji": "",
-    "arranger_original": "",
-    "episode": "12",
-    "time_start": "7:19",
-    "time_end": "9:40",
-    "unidentified": true,
-    "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27613",
-    "mal_url": "https://myanimelist.net/anime/54852",
-    "issues": [],
-    "notes": ""
   }
 ]

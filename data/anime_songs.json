@@ -883,11 +883,11 @@
     "time_start": "23:13",
     "time_end": "23:33",
     "unidentified": false,
-    "clean_available": true,
+    "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22479",
     "mal_url": "https://myanimelist.net/anime/40335",
     "issues": [],
-    "notes": "OST Tr11"
+    "notes": ""
   },
   {
     "anime_en": "Lapis Re:LiGHTs",

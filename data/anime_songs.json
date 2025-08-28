@@ -816,6 +816,30 @@
     "notes": "Clean from show."
   },
   {
+    "anime_en": "From Old Country Bumpkin to Master Swordsman",
+    "anime_romaji": "Katainaka no Ossan, Kensei ni Naru",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "6",
+    "time_start": "12:55",
+    "time_end": "14:48",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33057",
+    "mal_url": "https://myanimelist.net/anime/59452",
+    "issues": [],
+    "notes": "Need to check lyrics"
+  },
+  {
     "anime_en": "",
     "anime_romaji": "Gachiakuta",
     "year": 2025,
@@ -2029,14 +2053,14 @@
     "composer_original": "",
     "arranger_romaji": "",
     "arranger_original": "",
-    "episode": "6",
-    "time_start": "12:55",
-    "time_end": "14:48",
+    "episode": "11",
+    "time_start": "18:17",
+    "time_end": "20:21",
     "unidentified": true,
     "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33057",
     "mal_url": "https://myanimelist.net/anime/59452",
     "issues": [],
-    "notes": "Need to check lyrics"
+    "notes": ""
   }
 ]

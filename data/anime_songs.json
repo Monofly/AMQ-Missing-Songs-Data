@@ -1105,7 +1105,7 @@
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32808",
     "mal_url": "https://myanimelist.net/anime/59062",
     "issues": [],
-    "notes": "Gachiakuta (Original Series Soundtrack EP), Track 3"
+    "notes": "Gachiakuta (Original Series Soundtrack EP), Track 3\nAlso played at:\nEp1 1:56-3:10, 74s"
   },
   {
     "anime_en": "",
@@ -2332,6 +2332,30 @@
     "notes": ""
   },
   {
+    "anime_en": "The Fragrant Flower Blooms With Dignity",
+    "anime_romaji": "Kaoru Hana wa Rin to Saku",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "Kikunosuke Toya",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "9:01",
+    "time_end": "9:22",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33549",
+    "mal_url": "https://myanimelist.net/anime/59845",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "The Legend of Black Heaven",
     "anime_romaji": "Kachou Ouji",
     "year": 1999,
@@ -2474,29 +2498,5 @@
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
-  },
-  {
-    "anime_en": "The Fragrant Flower Blooms With Dignity",
-    "anime_romaji": "Kaoru Hana wa Rin to Saku",
-    "year": 2025,
-    "season": "Summer",
-    "type": "Insert",
-    "song_title_romaji": "",
-    "song_title_original": "",
-    "artist_romaji": "Kikunosuke Toya",
-    "artist_original": "",
-    "composer_romaji": "",
-    "composer_original": "",
-    "arranger_romaji": "",
-    "arranger_original": "",
-    "episode": "2",
-    "time_start": "9:01",
-    "time_end": "9:22",
-    "unidentified": true,
-    "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33549",
-    "mal_url": "https://myanimelist.net/anime/59845",
-    "issues": [],
-    "notes": ""
   }
 ]

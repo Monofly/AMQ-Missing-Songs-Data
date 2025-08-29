@@ -888,6 +888,30 @@
     "notes": "Clean from show."
   },
   {
+    "anime_en": "Everyday Host",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "12",
+    "time_start": "1:11",
+    "time_end": "1:38",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34192",
+    "mal_url": "https://myanimelist.net/anime/60535",
+    "issues": [],
+    "notes": "Need to check lyrics"
+  },
+  {
     "anime_en": "From Old Country Bumpkin to Master Swordsman",
     "anime_romaji": "Katainaka no Ossan, Kensei ni Naru",
     "year": 2025,
@@ -2280,10 +2304,10 @@
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
   },
   {
-    "anime_en": "Everyday Host",
+    "anime_en": "Farmagia",
     "anime_romaji": "",
     "year": 2025,
-    "season": "Spring",
+    "season": "Winter",
     "type": "Insert",
     "song_title_romaji": "",
     "song_title_original": "",
@@ -2293,14 +2317,14 @@
     "composer_original": "",
     "arranger_romaji": "",
     "arranger_original": "",
-    "episode": "12",
-    "time_start": "1:11",
-    "time_end": "1:38",
+    "episode": "9",
+    "time_start": "18:16",
+    "time_end": "21:22",
     "unidentified": true,
     "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34192",
-    "mal_url": "https://myanimelist.net/anime/60535",
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34019",
+    "mal_url": "https://myanimelist.net/anime/59113",
     "issues": [],
-    "notes": "Need to check lyrics"
+    "notes": ""
   }
 ]

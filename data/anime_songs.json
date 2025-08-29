@@ -960,6 +960,32 @@
     "notes": ""
   },
   {
+    "anime_en": "",
+    "anime_romaji": "Flaglia: Natsuyasumi no Monogatari",
+    "year": 2023,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Talk About Us",
+    "song_title_original": "Talk About Us",
+    "artist_romaji": "THE BOYZ",
+    "artist_original": "THE BOYZ",
+    "composer_romaji": "Didrik Thott, Christian Fast, Henrik Nordenback",
+    "composer_original": "Didrik Thott, Christian Fast, Henrik Nordenback",
+    "arranger_romaji": "Henrik Nordenback",
+    "arranger_original": "Henrik Nordenback",
+    "episode": "1-2",
+    "time_start": "15:21",
+    "time_end": "18:38",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26493",
+    "mal_url": "https://myanimelist.net/anime/53424",
+    "issues": [
+      "no_amazon"
+    ],
+    "notes": "Amazon does not have this episode yet for some reason."
+  },
+  {
     "anime_en": "From Old Country Bumpkin to Master Swordsman",
     "anime_romaji": "Katainaka no Ossan, Kensei ni Naru",
     "year": 2025,
@@ -2350,29 +2376,5 @@
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
-  },
-  {
-    "anime_en": "",
-    "anime_romaji": "Flaglia: Natsuyasumi no Monogatari",
-    "year": 2023,
-    "season": "Winter",
-    "type": "Insert",
-    "song_title_romaji": "Talk About Us",
-    "song_title_original": "Talk About Us",
-    "artist_romaji": "THE BOYZ",
-    "artist_original": "THE BOYZ",
-    "composer_romaji": "Didrik Thott, Christian Fast, Henrik Nordenback",
-    "composer_original": "Didrik Thott, Christian Fast, Henrik Nordenback",
-    "arranger_romaji": "Henrik Nordenback",
-    "arranger_original": "Henrik Nordenback",
-    "episode": "1-2",
-    "time_start": "15:21",
-    "time_end": "18:38",
-    "unidentified": false,
-    "clean_available": true,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26493",
-    "mal_url": "https://myanimelist.net/anime/53424",
-    "issues": [],
-    "notes": ""
   }
 ]

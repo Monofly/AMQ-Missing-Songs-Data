@@ -2112,6 +2112,30 @@
     "notes": ""
   },
   {
+    "anime_en": "The Dinner Table Detective",
+    "anime_romaji": "Nazotoki wa Dinner no Ato de",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "6",
+    "time_start": "18:24",
+    "time_end": "21:19",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34087",
+    "mal_url": "https://myanimelist.net/anime/60377",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "The Legend of Black Heaven",
     "anime_romaji": "Kachou Ouji",
     "year": 1999,
@@ -2256,8 +2280,8 @@
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
   },
   {
-    "anime_en": "The Dinner Table Detective",
-    "anime_romaji": "Nazotoki wa Dinner no Ato de",
+    "anime_en": "Everyday Host",
+    "anime_romaji": "",
     "year": 2025,
     "season": "Spring",
     "type": "Insert",
@@ -2269,14 +2293,14 @@
     "composer_original": "",
     "arranger_romaji": "",
     "arranger_original": "",
-    "episode": "6",
-    "time_start": "18:24",
-    "time_end": "21:19",
+    "episode": "12",
+    "time_start": "1:11",
+    "time_end": "1:38",
     "unidentified": true,
     "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34087",
-    "mal_url": "https://myanimelist.net/anime/60377",
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34192",
+    "mal_url": "https://myanimelist.net/anime/60535",
     "issues": [],
-    "notes": ""
+    "notes": "Need to check lyrics"
   }
 ]

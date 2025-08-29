@@ -2016,6 +2016,30 @@
     "notes": "OST Tr33"
   },
   {
+    "anime_en": "Sword of the Demon Hunter",
+    "anime_romaji": "Kijin Gentoushou",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "5",
+    "time_start": "0:02",
+    "time_end": "0:43",
+    "unidentified": true,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30817",
+    "mal_url": "https://myanimelist.net/anime/49778",
+    "issues": [],
+    "notes": "Probably clean from show?"
+  },
+  {
     "anime_en": "Synduality: Noir",
     "anime_romaji": "",
     "year": 2023,
@@ -2208,8 +2232,8 @@
     "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
   },
   {
-    "anime_en": "Sword of the Demon Hunter",
-    "anime_romaji": "Kijin Gentoushou",
+    "anime_en": "The Dinner Table Detective",
+    "anime_romaji": "Nazotoki wa Dinner no Ato de",
     "year": 2025,
     "season": "Spring",
     "type": "Insert",
@@ -2221,14 +2245,14 @@
     "composer_original": "",
     "arranger_romaji": "",
     "arranger_original": "",
-    "episode": "5",
-    "time_start": "0:02",
-    "time_end": "0:43",
+    "episode": "4",
+    "time_start": "0:41",
+    "time_end": "1:49",
     "unidentified": true,
-    "clean_available": true,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30817",
-    "mal_url": "https://myanimelist.net/anime/49778",
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34087",
+    "mal_url": "https://myanimelist.net/anime/60377",
     "issues": [],
-    "notes": "Probably clean from show?"
+    "notes": ""
   }
 ]

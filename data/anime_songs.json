@@ -956,8 +956,10 @@
     "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26493",
     "mal_url": "https://myanimelist.net/anime/53424",
-    "issues": [],
-    "notes": ""
+    "issues": [
+      "no_amazon"
+    ],
+    "notes": "Amazon does not have this episode yet for some reason."
   },
   {
     "anime_en": "",

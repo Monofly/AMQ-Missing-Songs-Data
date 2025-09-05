@@ -3050,5 +3050,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Arknights: Rise from Ember",
+    "anime_romaji": "Arknights: Enshin Shomei/Rise from Ember",
+    "year": 2025,
+    "season": "Summer",
+    "type": "ED",
+    "song_title_romaji": "Seimei Kansou",
+    "song_title_original": "生命換装",
+    "artist_romaji": "ReoNa",
+    "artist_original": "ReoNa",
+    "composer_romaji": "Tota Kasamura",
+    "composer_original": "傘村トータ",
+    "arranger_romaji": "Sachiko Miyano",
+    "arranger_original": "宮野 幸子",
+    "episode": "10",
+    "time_start": "16:56",
+    "time_end": "22:33",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32697",
+    "mal_url": "https://myanimelist.net/anime/58749",
+    "issues": [],
+    "notes": ""
   }
 ]

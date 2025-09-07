@@ -3050,5 +3050,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Osaka Tough Guys",
+    "anime_romaji": "Naniwa Yuukyouden",
+    "year": 1992,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "31:23",
+    "time_end": "32:26",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8648",
+    "mal_url": "https://myanimelist.net/anime/9498",
+    "issues": [],
+    "notes": ""
   }
 ]

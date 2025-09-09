@@ -2332,6 +2332,30 @@
     "notes": ""
   },
   {
+    "anime_en": "Sakamoto Days (TV 2)",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "10",
+    "time_start": "13:04",
+    "time_end": "15:29",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35291",
+    "mal_url": "https://myanimelist.net/anime/60285",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Scooped Up By an S-Ranked Adventurer",
     "anime_romaji": "Yuusha Party o Tsuihou Sareta Shiro Madoushi, S-Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru",
     "year": 2025,
@@ -3138,13 +3162,13 @@
     "arranger_romaji": "",
     "arranger_original": "",
     "episode": "10",
-    "time_start": "13:04",
-    "time_end": "15:29",
+    "time_start": "15:54",
+    "time_end": "17:48",
     "unidentified": true,
     "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35291",
     "mal_url": "https://myanimelist.net/anime/60285",
     "issues": [],
-    "notes": ""
+    "notes": "Need to check lyrics"
   }
 ]

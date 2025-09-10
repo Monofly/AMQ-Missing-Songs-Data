@@ -2140,6 +2140,30 @@
     "notes": ""
   },
   {
+    "anime_en": "Necronomico and the Cosmic Horror Show",
+    "anime_romaji": "Necronomico no Cosmic Horror Show",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "0:00",
+    "time_end": "1:22",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34154",
+    "mal_url": "https://myanimelist.net/anime/60505",
+    "issues": [],
+    "notes": "Need to check lyrics"
+  },
+  {
     "anime_en": "Night of the Living Cat",
     "anime_romaji": "Nyaight of the Living Cat",
     "year": 2025,
@@ -3172,10 +3196,10 @@
     "notes": ""
   },
   {
-    "anime_en": "Necronomico and the Cosmic Horror Show",
-    "anime_romaji": "Necronomico no Cosmic Horror Show",
+    "anime_en": "",
+    "anime_romaji": "Princession Orchestra",
     "year": 2025,
-    "season": "Summer",
+    "season": "Spring",
     "type": "Insert",
     "song_title_romaji": "",
     "song_title_original": "",
@@ -3185,14 +3209,14 @@
     "composer_original": "",
     "arranger_romaji": "",
     "arranger_original": "",
-    "episode": "11",
-    "time_start": "0:00",
-    "time_end": "1:22",
+    "episode": "22",
+    "time_start": "7:11",
+    "time_end": "7:43",
     "unidentified": true,
     "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34154",
-    "mal_url": "https://myanimelist.net/anime/60505",
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32811",
+    "mal_url": "https://myanimelist.net/anime/59078",
     "issues": [],
-    "notes": "Need to check lyrics"
+    "notes": ""
   }
 ]

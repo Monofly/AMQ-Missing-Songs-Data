@@ -1516,6 +1516,30 @@
     "notes": "Need to check lyrics"
   },
   {
+    "anime_en": "Hell Teacher: Jigoku Sensei Nube (TV 2)",
+    "anime_romaji": "Jigoku Sensei Nube (TV 2)",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "14:10",
+    "time_end": "16:27",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32957",
+    "mal_url": "https://myanimelist.net/anime/59342",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "",
     "anime_romaji": "Hoshizora no Violin",
     "year": 1994,
@@ -3244,8 +3268,8 @@
     "notes": ""
   },
   {
-    "anime_en": "Hell Teacher: Jigoku Sensei Nube (TV 2)",
-    "anime_romaji": "Jigoku Sensei Nube (TV 2)",
+    "anime_en": "Onmyo Kaiten Re:Birth Verse",
+    "anime_romaji": "Onmyou Kaiten Re:verse",
     "year": 2025,
     "season": "Summer",
     "type": "Insert",
@@ -3258,13 +3282,13 @@
     "arranger_romaji": "",
     "arranger_original": "",
     "episode": "11",
-    "time_start": "14:10",
-    "time_end": "16:27",
+    "time_start": "6:03",
+    "time_end": "7:38",
     "unidentified": true,
     "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32957",
-    "mal_url": "https://myanimelist.net/anime/59342",
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34975",
+    "mal_url": "https://myanimelist.net/anime/61150",
     "issues": [],
-    "notes": ""
+    "notes": "Need to check lyrics"
   }
 ]

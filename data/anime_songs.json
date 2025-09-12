@@ -3362,5 +3362,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "The Perrine Story",
+    "anime_romaji": "Perrine Monogatari",
+    "year": 1978,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "46",
+    "time_start": "9:42",
+    "time_end": "10:07",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=438",
+    "mal_url": "https://myanimelist.net/anime/2549",
+    "issues": [],
+    "notes": ""
   }
 ]

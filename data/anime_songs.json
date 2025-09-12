@@ -3148,6 +3148,30 @@
     "notes": ""
   },
   {
+    "anime_en": "The Perrine Story",
+    "anime_romaji": "Perrine Monogatari",
+    "year": 1978,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "46",
+    "time_start": "9:42",
+    "time_end": "10:07",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=438",
+    "mal_url": "https://myanimelist.net/anime/2549",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "The Summer Hikaru Died",
     "anime_romaji": "Hikaru ga Shinda Natsu",
     "year": 2025,
@@ -3337,7 +3361,7 @@
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28644",
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
-    "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
+    "notes": "Played clean in show at least. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa.\nAlso played at:\nEp 9 17:51-19:19, 88s"
   },
   {
     "anime_en": "Whereabouts of Tomorrow: Ashita no Arika",
@@ -3360,30 +3384,6 @@
     "clean_available": true,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
-    "issues": [],
-    "notes": ""
-  },
-  {
-    "anime_en": "The Perrine Story",
-    "anime_romaji": "Perrine Monogatari",
-    "year": 1978,
-    "season": "Winter",
-    "type": "Insert",
-    "song_title_romaji": "",
-    "song_title_original": "",
-    "artist_romaji": "",
-    "artist_original": "",
-    "composer_romaji": "",
-    "composer_original": "",
-    "arranger_romaji": "",
-    "arranger_original": "",
-    "episode": "46",
-    "time_start": "9:42",
-    "time_end": "10:07",
-    "unidentified": true,
-    "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=438",
-    "mal_url": "https://myanimelist.net/anime/2549",
     "issues": [],
     "notes": ""
   }

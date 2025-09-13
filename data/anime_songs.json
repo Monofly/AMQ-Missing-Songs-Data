@@ -3482,5 +3482,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Make a Girl",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Winter",
+    "type": "OP",
+    "song_title_romaji": "Ai no Zero",
+    "song_title_original": "愛ノゼロ",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "Kenichiro Suehiro",
+    "composer_original": "",
+    "arranger_romaji": "Kenichiro Suehiro",
+    "arranger_original": "",
+    "episode": "",
+    "time_start": "",
+    "time_end": "",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32010",
+    "mal_url": "https://myanimelist.net/anime/54740",
+    "issues": [],
+    "notes": "OST Tr39\nProb sung by Ayano Ogura (小倉綾乃)?"
   }
 ]

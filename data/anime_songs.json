@@ -3506,5 +3506,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "To Be Hero X",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "New Type of Hero",
+    "song_title_original": "New Type of Hero",
+    "artist_romaji": "Chatterbox",
+    "artist_original": "Chatterbox",
+    "composer_romaji": "Griff Clawson",
+    "composer_original": "Griff Clawson",
+    "arranger_romaji": "Griff Clawson",
+    "arranger_original": "Griff Clawson",
+    "episode": "24",
+    "time_start": "5:41",
+    "time_end": "6:39",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=27609",
+    "mal_url": "https://myanimelist.net/anime/53447",
+    "issues": [],
+    "notes": ""
   }
 ]

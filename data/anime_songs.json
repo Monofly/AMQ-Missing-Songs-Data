@@ -3506,5 +3506,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Sakamoto Days (TV 2)",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "19:24",
+    "time_end": "21:06",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35291",
+    "mal_url": "https://myanimelist.net/anime/60285",
+    "issues": [],
+    "notes": ""
   }
 ]

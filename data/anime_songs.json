@@ -3818,5 +3818,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Onmyo Kaiten Re:Birth Verse",
+    "anime_romaji": "Onmyou Kaiten Re:verse",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "12",
+    "time_start": "7:59",
+    "time_end": "9:26",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34975",
+    "mal_url": "https://myanimelist.net/anime/61150",
+    "issues": [],
+    "notes": ""
   }
 ]

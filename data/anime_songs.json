@@ -2472,10 +2472,32 @@
     "clean_available": false,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/19753",
-    "issues": [
-      "hardsub"
-    ],
+    "issues": [],
     "notes": "Duplicate of MAL 9498, 19717"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Naniwa Yuukyouden: Kanketsu-hen",
+    "year": 1993,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Chou Gokudou! Kaimon Kaidou",
+    "song_title_original": "",
+    "artist_romaji": "Kikusuimaru Kawachiya",
+    "artist_original": "",
+    "composer_romaji": "Yoshio Kimura",
+    "composer_original": "",
+    "arranger_romaji": "Jirou Takemura",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "50:55",
+    "time_end": "52:32",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/19753",
+    "issues": [],
+    "notes": "Duplicate of MAL 19729, 19745"
   },
   {
     "anime_en": "Necronomico and the Cosmic Horror Show",
@@ -3940,29 +3962,5 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
-  },
-  {
-    "anime_en": "",
-    "anime_romaji": "Naniwa Yuukyouden: Kanketsu-hen",
-    "year": 1993,
-    "season": "Summer",
-    "type": "Insert",
-    "song_title_romaji": "Chou Gokudou! Kaimon Kaidou",
-    "song_title_original": "",
-    "artist_romaji": "Kikusuimaru Kawachiya",
-    "artist_original": "",
-    "composer_romaji": "Yoshio Kimura",
-    "composer_original": "",
-    "arranger_romaji": "Jirou Takemura",
-    "arranger_original": "",
-    "episode": "1",
-    "time_start": "50:55",
-    "time_end": "52:32",
-    "unidentified": false,
-    "clean_available": false,
-    "ann_url": "",
-    "mal_url": "https://myanimelist.net/anime/19753",
-    "issues": [],
-    "notes": "Duplicate of MAL 19729, 19745"
   }
 ]

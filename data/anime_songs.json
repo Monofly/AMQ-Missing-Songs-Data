@@ -4106,5 +4106,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
+  },
+  {
+    "anime_en": "Moonrise",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "Chopper",
+    "song_title_original": "Chopper",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "Ryo Kawasaki",
+    "composer_original": "川﨑龍",
+    "arranger_romaji": "Ryo Kawasaki",
+    "arranger_original": "川﨑龍",
+    "episode": "4",
+    "time_start": "13:48",
+    "time_end": "16:00",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25778",
+    "mal_url": "https://myanimelist.net/anime/38903",
+    "issues": [],
+    "notes": "OST Tr3"
   }
 ]

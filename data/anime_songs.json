@@ -2693,6 +2693,32 @@
   },
   {
     "anime_en": "Osaka Tough Guys",
+    "anime_romaji": "Naniwa Yuukyouden: Kanketsu-hen",
+    "year": 1992,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Naniwa Yuukyouden Rap",
+    "song_title_original": "",
+    "artist_romaji": "Rikiya Yasuoka",
+    "artist_original": "",
+    "composer_romaji": "Jirou Takemura",
+    "composer_original": "",
+    "arranger_romaji": "Jirou Takemura",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "23:33",
+    "time_end": "24:50",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/19753",
+    "issues": [
+      "hardsub"
+    ],
+    "notes": ""
+  },
+  {
+    "anime_en": "Osaka Tough Guys",
     "anime_romaji": "Naniwa Yuukyouden",
     "year": 1992,
     "season": "Winter",
@@ -3914,31 +3940,5 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
-  },
-  {
-    "anime_en": "Osaka Tough Guys",
-    "anime_romaji": "Naniwa Yuukyouden: Kanketsu-hen",
-    "year": 1992,
-    "season": "Winter",
-    "type": "Insert",
-    "song_title_romaji": "Naniwa Yuukyouden Rap",
-    "song_title_original": "",
-    "artist_romaji": "Rikiya Yasuoka",
-    "artist_original": "",
-    "composer_romaji": "Jirou Takemura",
-    "composer_original": "",
-    "arranger_romaji": "Jirou Takemura",
-    "arranger_original": "",
-    "episode": "1",
-    "time_start": "23:33",
-    "time_end": "14:50",
-    "unidentified": false,
-    "clean_available": false,
-    "ann_url": "",
-    "mal_url": "https://myanimelist.net/anime/19753",
-    "issues": [
-      "hardsub"
-    ],
-    "notes": ""
   }
 ]

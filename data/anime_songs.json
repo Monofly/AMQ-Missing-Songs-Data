@@ -3866,5 +3866,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "500000000 Years Button",
+    "anime_romaji": "5-Oku-nen Button: Sugahara Souta no Short Short",
+    "year": 2022,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Ave Maria (Ellen's Gesang) D.839",
+    "song_title_original": "Ave Maria (Ellen's Gesang) D.839",
+    "artist_romaji": "Barbara Hendricks, Stockholm Chamber Orchestra, Eric Ericson & Erik Lundkvist",
+    "artist_original": "Barbara Hendricks, Stockholm Chamber Orchestra, Eric Ericson & Erik Lundkvist",
+    "composer_romaji": "Franz Schubert",
+    "composer_original": "Franz Schubert",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "9:39",
+    "time_end": "10:52",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25835",
+    "mal_url": "https://myanimelist.net/anime/52162",
+    "issues": [],
+    "notes": ""
   }
 ]

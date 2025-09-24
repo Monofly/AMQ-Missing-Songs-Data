@@ -1852,6 +1852,30 @@
     "notes": ""
   },
   {
+    "anime_en": "Hana-Doll*: Reinterpretation of Flowering",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "Anthos",
+    "artist_original": "Anthos",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "12",
+    "time_start": "16:57",
+    "time_end": "20:02",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28697",
+    "mal_url": "https://myanimelist.net/anime/55710",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Hell Teacher: Jigoku Sensei Nube (TV 2)",
     "anime_romaji": "Jigoku Sensei Nube (TV 2)",
     "year": 2025,
@@ -4074,13 +4098,13 @@
     "arranger_romaji": "",
     "arranger_original": "",
     "episode": "12",
-    "time_start": "16:57",
-    "time_end": "20:02",
+    "time_start": "6:59",
+    "time_end": "14:26",
     "unidentified": true,
     "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28697",
     "mal_url": "https://myanimelist.net/anime/55710",
     "issues": [],
-    "notes": ""
+    "notes": "Cut out at:\n7:49-8:40\n9:15-9:35\n10:03-10:28\n11:00-11:29\n12:02-13:00"
   }
 ]

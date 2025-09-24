@@ -3890,5 +3890,29 @@
     "mal_url": "https://myanimelist.net/anime/62401/Ashita_no_Arika",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Yaiba: Samurai Legend",
+    "anime_romaji": "Shin Samurai-den Yaiba",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "NEW LEVELS",
+    "song_title_original": "NEW LEVELS",
+    "artist_romaji": "Bobby John",
+    "artist_original": "Bobby John",
+    "composer_romaji": "Yutaka Yamada",
+    "composer_original": "",
+    "arranger_romaji": "Yutaka Yamada",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "21:31",
+    "time_end": "22:04",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32715",
+    "mal_url": "https://myanimelist.net/anime/58812",
+    "issues": [],
+    "notes": "OST Tr24"
   }
 ]

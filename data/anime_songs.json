@@ -4418,5 +4418,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
+  },
+  {
+    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
+    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
+    "year": 2018,
+    "season": "Fall",
+    "type": "ED",
+    "song_title_romaji": "520",
+    "song_title_original": "520",
+    "artist_romaji": "Emiri Iwai",
+    "artist_original": "岩井映美里",
+    "composer_romaji": "Yuuki Kurihara",
+    "composer_original": "栗原悠希",
+    "arranger_romaji": "Tatsuya Kurauchi",
+    "arranger_original": "倉内達矢",
+    "episode": "10",
+    "time_start": "28:07",
+    "time_end": "29:05",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/38018",
+    "issues": [],
+    "notes": "Version not in album"
   }
 ]

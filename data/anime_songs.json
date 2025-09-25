@@ -4514,5 +4514,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
+  },
+  {
+    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
+    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
+    "year": 2018,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Miracle SPARK",
+    "song_title_original": "ミラクルSPARK",
+    "artist_romaji": "Masafumi Yamane, Kouji Fujiyoshi & Kentaro Tone",
+    "artist_original": "山根雅史, 藤吉浩二 & 利根健太朗",
+    "composer_romaji": "Yuuki Kurihara",
+    "composer_original": "栗原悠希",
+    "arranger_romaji": "Kazuki Satou (SCRAMBLES)",
+    "arranger_original": "佐藤カズキ (SCRAMBLES)",
+    "episode": "14",
+    "time_start": "23:51",
+    "time_end": "25:31",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/38018",
+    "issues": [],
+    "notes": "Artist from cast credits."
   }
 ]

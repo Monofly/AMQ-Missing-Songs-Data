@@ -2665,7 +2665,7 @@
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/38018",
     "issues": [],
-    "notes": ""
+    "notes": "Also played at:\nEp 17 0:03-3:22, 199s"
   },
   {
     "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
@@ -2810,6 +2810,30 @@
     "mal_url": "https://myanimelist.net/anime/38018",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
+    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
+    "year": 2018,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Rice-ki!",
+    "song_title_original": "Riceき！",
+    "artist_romaji": "Kome Kome Kome",
+    "artist_original": "米米米",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "16",
+    "time_start": "35:17",
+    "time_end": "36:16",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/38018",
+    "issues": [],
+    "notes": "Members are:\nTsuyahime (つや姫)\nMoeminori (萌えみのり)\nMilky Queen (ミルキークイーン)\n\nCouldn't find composer and arranger."
   },
   {
     "anime_en": "Magical Destroyers",
@@ -4562,29 +4586,5 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
-  },
-  {
-    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
-    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
-    "year": 2018,
-    "season": "Fall",
-    "type": "Insert",
-    "song_title_romaji": "Rice-ki!",
-    "song_title_original": "Riceき！",
-    "artist_romaji": "Kome Kome Kome",
-    "artist_original": "米米米",
-    "composer_romaji": "",
-    "composer_original": "",
-    "arranger_romaji": "",
-    "arranger_original": "",
-    "episode": "16",
-    "time_start": "35:17",
-    "time_end": "36:16",
-    "unidentified": false,
-    "clean_available": true,
-    "ann_url": "",
-    "mal_url": "https://myanimelist.net/anime/38018",
-    "issues": [],
-    "notes": "Members are:\nTsuyahime (つや姫)\nMoeminori (萌えみのり)\nMilky Queen (ミルキークイーン)\n\nCouldn't find composer and arranger."
   }
 ]

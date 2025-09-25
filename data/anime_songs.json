@@ -2617,7 +2617,7 @@
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/38018",
     "issues": [],
-    "notes": "Also played at:\nEp 7 24:26–26:46, 140s\nEp 13 23:21-25:41, 140s"
+    "notes": "Also played at:\nEp 7 24:26–26:46, 140s\nEp 13 23:21-25:41, 140s\nEp 17 27:52-28:53, 61s"
   },
   {
     "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
@@ -2954,6 +2954,30 @@
     "mal_url": "https://myanimelist.net/anime/38018",
     "issues": [],
     "notes": "Include:\n26:06-26:27"
+  },
+  {
+    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
+    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
+    "year": 2018,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "ASYME DANCE",
+    "song_title_original": "ASYME DANCE",
+    "artist_romaji": "Akina Homoto & Xiao Wu Chen Chen Chen",
+    "artist_original": "法元明菜 & 小五沉沉沉",
+    "composer_romaji": "Yuuki Kurihara",
+    "composer_original": "栗原悠希",
+    "arranger_romaji": "Satoshi Toyozumi (SCRAMBLES)",
+    "arranger_original": "豊住サトシ (SCRAMBLES)",
+    "episode": "17",
+    "time_start": "26:33",
+    "time_end": "27:52",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/38018",
+    "issues": [],
+    "notes": ""
   },
   {
     "anime_en": "Magical Destroyers",
@@ -4706,29 +4730,5 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
-  },
-  {
-    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
-    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
-    "year": 2018,
-    "season": "Fall",
-    "type": "Insert",
-    "song_title_romaji": "ASYME DANCE",
-    "song_title_original": "ASYME DANCE",
-    "artist_romaji": "Akina Homoto & Xiao Wu Chen Chen Chen",
-    "artist_original": "法元明菜 & 小五沉沉沉",
-    "composer_romaji": "Yuuki Kurihara",
-    "composer_original": "栗原悠希",
-    "arranger_romaji": "Satoshi Toyozumi (SCRAMBLES)",
-    "arranger_original": "豊住サトシ (SCRAMBLES)",
-    "episode": "17",
-    "time_start": "26:33",
-    "time_end": "27:52",
-    "unidentified": false,
-    "clean_available": true,
-    "ann_url": "",
-    "mal_url": "https://myanimelist.net/anime/38018",
-    "issues": [],
-    "notes": ""
   }
 ]

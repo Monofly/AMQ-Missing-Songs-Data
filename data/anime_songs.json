@@ -4346,5 +4346,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr24\nAlso played at:\nEp 1 21:31–22:04, 33s\nEp 8 14:32–15:24, 52s"
+  },
+  {
+    "anime_en": "Live Animation Heart x Algorhythm 2nd Season",
+    "anime_romaji": "Chokkan x Algorhythm♪ 2nd Season",
+    "year": 2018,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "subroutine",
+    "song_title_original": "subroutine",
+    "artist_romaji": "Minori Suzuki & Xiao Wu Chen Chen Chen",
+    "artist_original": "",
+    "composer_romaji": "Chocoholic",
+    "composer_original": "",
+    "arranger_romaji": "Chocoholic",
+    "arranger_original": "",
+    "episode": "5",
+    "time_start": "29:54",
+    "time_end": "31:50",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/38018",
+    "issues": [],
+    "notes": "Duplicate from Season 1"
   }
 ]

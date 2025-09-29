@@ -3796,6 +3796,30 @@
     "notes": "OST Tr48\nAlso played at:\nEp 10 21:36–22:25, 49s"
   },
   {
+    "anime_en": "New Treasure Island",
+    "anime_romaji": "Shin Takarajima",
+    "year": 1965,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "43:32",
+    "time_end": "44:26",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1494",
+    "mal_url": "https://myanimelist.net/anime/15823",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Night of the Living Cat",
     "anime_romaji": "Nyaight of the Living Cat",
     "year": 2025,
@@ -5308,10 +5332,10 @@
     "notes": "OST Tr25"
   },
   {
-    "anime_en": "New Treasure Island",
-    "anime_romaji": "Shin Takarajima",
-    "year": 1965,
-    "season": "Winter",
+    "anime_en": "The All-devouring Whale: Homecoming",
+    "anime_romaji": "Tensei Soushu no Hadou-tan: Subete wo Nomikomu Sakana to Haiagaru",
+    "year": 2025,
+    "season": "Summer",
     "type": "Insert",
     "song_title_romaji": "",
     "song_title_original": "",
@@ -5321,14 +5345,14 @@
     "composer_original": "",
     "arranger_romaji": "",
     "arranger_original": "",
-    "episode": "1",
-    "time_start": "43:32",
-    "time_end": "44:26",
+    "episode": "5",
+    "time_start": "13:32",
+    "time_end": "14:00",
     "unidentified": true,
     "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1494",
-    "mal_url": "https://myanimelist.net/anime/15823",
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/60572",
     "issues": [],
-    "notes": ""
+    "notes": "Check lyrics"
   }
 ]

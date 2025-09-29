@@ -1248,6 +1248,30 @@
     "notes": "Clean from show."
   },
   {
+    "anime_en": "Dragon Raja -The Blazing Dawn- (Episode 0)",
+    "anime_romaji": "Ryuzoku: The Blazing Dawn (Episode 0)",
+    "year": 2022,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "The City of Bronze",
+    "song_title_original": "The City of Bronze",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "43:59",
+    "time_end": "45:24",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/52890/Long_Zu_Episode_0",
+    "issues": [],
+    "notes": "Also played at:\nEp 1 1:53-2:32, 39s"
+  },
+  {
     "anime_en": "Dusk Beyond the End of the World (Episode 0)",
     "anime_romaji": "Towa no Yuugure (Episode 0)",
     "year": 2025,
@@ -5313,8 +5337,8 @@
     "year": 2022,
     "season": "Summer",
     "type": "Insert",
-    "song_title_romaji": "The City of Bronze",
-    "song_title_original": "The City of Bronze",
+    "song_title_romaji": "Destined Hero",
+    "song_title_original": "Destined Hero",
     "artist_romaji": "",
     "artist_original": "",
     "composer_romaji": "",
@@ -5322,13 +5346,13 @@
     "arranger_romaji": "",
     "arranger_original": "",
     "episode": "1",
-    "time_start": "43:59",
-    "time_end": "45:24",
+    "time_start": "10:01",
+    "time_end": "10:32",
     "unidentified": false,
     "clean_available": true,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/52890/Long_Zu_Episode_0",
     "issues": [],
-    "notes": "Also played at:\nEp 1 1:53-2:32, 39s"
+    "notes": ""
   }
 ]

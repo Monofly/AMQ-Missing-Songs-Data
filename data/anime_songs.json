@@ -5282,5 +5282,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr25"
+  },
+  {
+    "anime_en": "Yaiba: Samurai Legend",
+    "anime_romaji": "Shin Samurai-den Yaiba",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "Feeling Lazy Today",
+    "song_title_original": "Feeling Lazy Today",
+    "artist_romaji": "Frank Bentley",
+    "artist_original": "",
+    "composer_romaji": "Yutaka Yamada",
+    "composer_original": "",
+    "arranger_romaji": "Yutaka Yamada",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "17:13",
+    "time_end": "17:35",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32715",
+    "mal_url": "https://myanimelist.net/anime/58812",
+    "issues": [],
+    "notes": "OST Tr8"
   }
 ]

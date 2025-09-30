@@ -5762,5 +5762,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr25"
+  },
+  {
+    "anime_en": "Dragon Raja -The Blazing Dawn-",
+    "anime_romaji": "Ryuzoku: The Blazing Dawn",
+    "year": 2022,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "13",
+    "time_start": "6:29",
+    "time_end": "8:10",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/44408",
+    "issues": [],
+    "notes": ""
   }
 ]

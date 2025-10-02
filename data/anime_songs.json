@@ -5666,5 +5666,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr25"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Ganso! Bandori-chan",
+    "year": 2025,
+    "season": "Summer",
+    "type": "ED",
+    "song_title_romaji": "Ganso! Bandori-chan no Theme",
+    "song_title_original": "元祖! バンドリちゃんのテーマ",
+    "artist_romaji": "Aimi×Ayane Sakura×Ami Maeshima×Aina Aiba×Miku Itou×Raychell×Amane Shindou×Hina Youmiya×Rico Sasaki×Nakamachi Arale",
+    "artist_original": "香澄×蘭×彩×友希那×こころ×ましろ ×レイヤ×燈×ドロリス×あられ",
+    "composer_romaji": "Junpei Fujita",
+    "composer_original": "藤田淳平",
+    "arranger_romaji": "Junpei Fujita",
+    "arranger_original": "藤田淳平",
+    "episode": "1",
+    "time_start": "1:00",
+    "time_end": "1:29",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/61107",
+    "issues": [],
+    "notes": ""
   }
 ]

@@ -5718,5 +5718,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr25"
+  },
+  {
+    "anime_en": "Cat's Eye (ONA 2025)",
+    "anime_romaji": "",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "15:27",
+    "time_end": "17:14",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34069",
+    "mal_url": "https://myanimelist.net/anime/60347",
+    "issues": [],
+    "notes": ""
   }
 ]

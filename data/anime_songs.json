@@ -5742,5 +5742,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr25"
+  },
+  {
+    "anime_en": "Tojima Wants to Be a Kamen Rider",
+    "anime_romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "year": 2025,
+    "season": "Fall",
+    "type": "OP",
+    "song_title_romaji": "Let's Go!! Rider Kick",
+    "song_title_original": "レッツゴー!!ライダーキック",
+    "artist_romaji": "Hiroshi Fujioka, Male Harmony",
+    "artist_original": "藤岡弘、メール・ハーモニー",
+    "composer_romaji": "Shunsuke Kikuchi",
+    "composer_original": "菊池俊輔",
+    "arranger_romaji": "Shunsuke Kikuchi",
+    "arranger_original": "菊池俊輔",
+    "episode": "1",
+    "time_start": "0:43",
+    "time_end": "1:39",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/61159",
+    "issues": [],
+    "notes": ""
   }
 ]

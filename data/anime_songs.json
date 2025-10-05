@@ -5718,5 +5718,29 @@
     "mal_url": "https://myanimelist.net/anime/58812",
     "issues": [],
     "notes": "OST Tr25"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Sanda",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "Franz Xaver Gruber",
+    "composer_original": "Franz Xaver Gruber",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "9:02",
+    "time_end": "11:11",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32918",
+    "mal_url": "https://myanimelist.net/anime/59267",
+    "issues": [],
+    "notes": "Silent Night"
   }
 ]

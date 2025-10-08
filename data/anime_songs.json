@@ -5977,7 +5977,7 @@
     "time_start": "15:10",
     "time_end": "16:13",
     "unidentified": false,
-    "clean_available": false,
+    "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
     "mal_url": "https://myanimelist.net/anime/59623",
     "issues": [],

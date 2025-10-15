@@ -4370,8 +4370,10 @@
     "clean_available": true,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/51656/Jiu_Cang_Miao_Wo_2nd_Season",
-    "issues": [],
-    "notes": ""
+    "issues": [
+      "no_source"
+    ],
+    "notes": "Possibly rebroadcast?"
   },
   {
     "anime_en": "",

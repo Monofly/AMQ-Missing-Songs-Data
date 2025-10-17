@@ -573,7 +573,31 @@
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29893",
     "mal_url": "https://myanimelist.net/anime/56653",
     "issues": [],
-    "notes": ""
+    "notes": "Duplicate song from MyGO!!"
+  },
+  {
+    "anime_en": "Ave Mujica: The Die is Cast",
+    "anime_romaji": "BanG Dream! Ave Mujica",
+    "year": 2025,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Paradisus",
+    "song_title_original": "パラディースス",
+    "artist_romaji": "Tokyo Konsei Gasshou-dan",
+    "artist_original": "",
+    "composer_romaji": "Hitoshi Fujima",
+    "composer_original": "",
+    "arranger_romaji": "Hitoshi Fujima",
+    "arranger_original": "",
+    "episode": "13",
+    "time_start": "17:01",
+    "time_end": "20:01",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29893",
+    "mal_url": "https://myanimelist.net/anime/56653",
+    "issues": [],
+    "notes": "OST V2-Tr13"
   },
   {
     "anime_en": "Bâan: The Boundaries of Adulthood",
@@ -6514,29 +6538,5 @@
     "mal_url": "https://myanimelist.net/anime/59623/Wandance",
     "issues": [],
     "notes": ""
-  },
-  {
-    "anime_en": "Ave Mujica: The Die is Cast",
-    "anime_romaji": "BanG Dream! Ave Mujica",
-    "year": 2025,
-    "season": "Winter",
-    "type": "Insert",
-    "song_title_romaji": "Paradisus",
-    "song_title_original": "パラディースス",
-    "artist_romaji": "Tokyo Konsei Gasshou-dan",
-    "artist_original": "",
-    "composer_romaji": "Hitoshi Fujima",
-    "composer_original": "",
-    "arranger_romaji": "Hitoshi Fujima",
-    "arranger_original": "",
-    "episode": "13",
-    "time_start": "17:01",
-    "time_end": "20:01",
-    "unidentified": false,
-    "clean_available": true,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29893",
-    "mal_url": "https://myanimelist.net/anime/56653",
-    "issues": [],
-    "notes": "OST V2-Tr13"
   }
 ]

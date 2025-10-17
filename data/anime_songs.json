@@ -6466,5 +6466,29 @@
     "mal_url": "https://myanimelist.net/anime/59623/Wandance",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "Ave Mujica: The Die is Cast",
+    "anime_romaji": "BanG Dream! Ave Mujica",
+    "year": 2025,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Greensleeves",
+    "song_title_original": "Greensleeves",
+    "artist_romaji": "Rico Sasaki",
+    "artist_original": "",
+    "composer_romaji": "Traditional",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "1:32",
+    "time_end": "1:57",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29893",
+    "mal_url": "https://myanimelist.net/anime/56653",
+    "issues": [],
+    "notes": "Clean from show"
   }
 ]

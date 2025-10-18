@@ -2572,6 +2572,30 @@
     "notes": "OST Tr4"
   },
   {
+    "anime_en": "",
+    "anime_romaji": "Gnosia",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "14:02",
+    "time_end": "14:58",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34103",
+    "mal_url": "https://myanimelist.net/anime/60427",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Good Night World",
     "anime_romaji": "",
     "year": 2023,
@@ -6249,7 +6273,7 @@
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35007",
     "mal_url": "https://myanimelist.net/anime/61159",
     "issues": [],
-    "notes": ""
+    "notes": "Also played at:\nEp 3 3:32-4:44, 72s"
   },
   {
     "anime_en": "Tojima Wants to Be a Kamen Rider",
@@ -6608,30 +6632,6 @@
     "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
     "mal_url": "https://myanimelist.net/anime/59623/Wandance",
-    "issues": [],
-    "notes": ""
-  },
-  {
-    "anime_en": "",
-    "anime_romaji": "Gnosia",
-    "year": 2025,
-    "season": "Fall",
-    "type": "Insert",
-    "song_title_romaji": "",
-    "song_title_original": "",
-    "artist_romaji": "",
-    "artist_original": "",
-    "composer_romaji": "",
-    "composer_original": "",
-    "arranger_romaji": "",
-    "arranger_original": "",
-    "episode": "2",
-    "time_start": "14:02",
-    "time_end": "14:58",
-    "unidentified": true,
-    "clean_available": false,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34103",
-    "mal_url": "https://myanimelist.net/anime/60427",
     "issues": [],
     "notes": ""
   }

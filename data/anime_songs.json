@@ -6538,5 +6538,29 @@
     "mal_url": "https://myanimelist.net/anime/59623/Wandance",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "",
+    "year": "",
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Boku wa Taiyaki",
+    "song_title_original": "ぼくはたい焼き",
+    "artist_romaji": "朝倉さや",
+    "artist_original": "朝倉さや",
+    "composer_romaji": "Tarou Umebayashi",
+    "composer_original": "梅林太郎",
+    "arranger_romaji": "Tomonori Hayashibe",
+    "arranger_original": "ハヤシベトモノリ",
+    "episode": "1",
+    "time_start": "15:48",
+    "time_end": "16:12",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "",
+    "issues": [],
+    "notes": "OST Tr32"
   }
 ]

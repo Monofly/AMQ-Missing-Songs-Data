@@ -1001,7 +1001,7 @@
     "time_start": "2:36",
     "time_end": "3:14",
     "unidentified": false,
-    "clean_available": false,
+    "clean_available": true,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/62522",
     "issues": [],

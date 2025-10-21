@@ -6706,5 +6706,29 @@
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
     "notes": "Played clean in show. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Happy Jozy",
+    "year": 2015,
+    "season": "Spring",
+    "type": "OP",
+    "song_title_romaji": "Happy Tokyo Girl",
+    "song_title_original": "ハッピートーキョーガール",
+    "artist_romaji": "Lisa Melody",
+    "artist_original": "リサメロディー",
+    "composer_romaji": "Taka Aoki",
+    "composer_original": "青木多果",
+    "arranger_romaji": "Yusuke Yamamoto",
+    "arranger_original": "山本雄介",
+    "episode": "1",
+    "time_start": "1:30",
+    "time_end": "1:59",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/30411/Happy_Jozy",
+    "issues": [],
+    "notes": "No arranger listed, so I put the music producer as one idk."
   }
 ]

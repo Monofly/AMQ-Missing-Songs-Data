@@ -5264,6 +5264,30 @@
     "notes": "Also played at:\nEp 23 12:22–14:00, 98s"
   },
   {
+    "anime_en": "",
+    "anime_romaji": "Princession Orchestra",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "Signal Lyrical",
+    "song_title_original": "シグナル・リリカル",
+    "artist_romaji": "Azusa Aoi",
+    "artist_original": "葵 あずさ",
+    "composer_romaji": "Yuta Kasai",
+    "composer_original": "笠井雄太",
+    "arranger_romaji": "Yuta Kasai",
+    "arranger_original": "笠井雄太",
+    "episode": "26",
+    "time_start": "12:12",
+    "time_end": "14:34",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32811",
+    "mal_url": "https://myanimelist.net/anime/59078",
+    "issues": [],
+    "notes": ""
+  },
+  {
     "anime_en": "Rokudo's Bad Girls",
     "anime_romaji": "Rokudou no Onna-tachi",
     "year": 2023,
@@ -5621,7 +5645,7 @@
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/56430/Spicy_Boy",
     "issues": [],
-    "notes": "No credit for the song except the song title, but Kate Arrow voices all the characters and makes the music for the show."
+    "notes": "No credit for the song except the song title, but Kate Arrow voices all the characters and makes the music for the show.\nSong title from:\nwww.youtube.com/watch?v=JzuiENULfgQ"
   },
   {
     "anime_en": "Strawberry Prince the Movie",
@@ -6682,29 +6706,5 @@
     "mal_url": "https://myanimelist.net/anime/55689",
     "issues": [],
     "notes": "Played clean in show. Members are Mirai Ayase, Yuuko Natsuyoshi, Kanoko Sudo, Misato Matsuoka, Miharu Hanai, Haruka Aikawa."
-  },
-  {
-    "anime_en": "",
-    "anime_romaji": "Princession Orchestra",
-    "year": 2025,
-    "season": "Spring",
-    "type": "Insert",
-    "song_title_romaji": "Signal Lyrical",
-    "song_title_original": "シグナル・リリカル",
-    "artist_romaji": "Azusa Aoi",
-    "artist_original": "葵 あずさ",
-    "composer_romaji": "Yuta Kasai",
-    "composer_original": "笠井雄太",
-    "arranger_romaji": "Yuta Kasai",
-    "arranger_original": "笠井雄太",
-    "episode": "26",
-    "time_start": "12:12",
-    "time_end": "14:34",
-    "unidentified": false,
-    "clean_available": true,
-    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32811",
-    "mal_url": "https://myanimelist.net/anime/59078",
-    "issues": [],
-    "notes": ""
   }
 ]

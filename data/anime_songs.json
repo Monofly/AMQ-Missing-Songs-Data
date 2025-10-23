@@ -6850,5 +6850,29 @@
     "mal_url": "https://myanimelist.net/anime/59623/Wandance",
     "issues": [],
     "notes": ""
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Princession Orchestra",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "Innocent Call",
+    "song_title_original": "イノセントコール",
+    "artist_romaji": "Hikari Aimura",
+    "artist_original": "藍村光",
+    "composer_romaji": "Daisuke Kikuta",
+    "composer_original": "菊田大介",
+    "arranger_romaji": "Daisuke Kikuta",
+    "arranger_original": "菊田大介",
+    "episode": "27",
+    "time_start": "",
+    "time_end": "",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32811",
+    "mal_url": "https://myanimelist.net/anime/59078",
+    "issues": [],
+    "notes": ""
   }
 ]

@@ -7010,5 +7010,30 @@
     "issues": [],
     "notes": "Duplicate of ANN 20848, 21406, 27636",
     "id": "1761467624614-8a09284b"
+  },
+  {
+    "anime_en": "Touring After the Apocalypse",
+    "anime_romaji": "Shuumatsu Touring",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Tenohira o Taiyou ni",
+    "song_title_original": "てのひらを太陽に",
+    "artist_romaji": "Miyu Tomita & Konomi Inagaki",
+    "artist_original": "富田美憂 & 稲垣好",
+    "composer_romaji": "Taku Izumi",
+    "composer_original": "いずみたく",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "4",
+    "time_start": "20:20",
+    "time_end": "22:05",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34802",
+    "mal_url": "https://myanimelist.net/anime/61072",
+    "issues": [],
+    "notes": "",
+    "id": "1761467798472-c6831aba"
   }
 ]

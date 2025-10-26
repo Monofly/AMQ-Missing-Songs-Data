@@ -6960,5 +6960,30 @@
     "issues": [],
     "notes": "",
     "id": "1761426112433-be770a2a"
+  },
+  {
+    "anime_en": "Touring After the Apocalypse",
+    "anime_romaji": "Shuumatsu Touring",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Blooming Lily",
+    "song_title_original": "Blooming Lily",
+    "artist_romaji": "Saori Oonishi",
+    "artist_original": "大西沙織",
+    "composer_romaji": "Kousuke Okui",
+    "composer_original": "奥井康介",
+    "arranger_romaji": "Kousuke Okui",
+    "arranger_original": "奥井康介",
+    "episode": "4",
+    "time_start": "10:44",
+    "time_end": "11:18",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34802",
+    "mal_url": "https://myanimelist.net/anime/61072",
+    "issues": [],
+    "notes": "Duplicate of ANN 16141",
+    "id": "1761467529536-11baec63"
   }
 ]

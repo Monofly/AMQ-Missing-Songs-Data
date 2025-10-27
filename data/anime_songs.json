@@ -7060,5 +7060,30 @@
     "issues": [],
     "notes": "Male singer",
     "id": "1761576079354-d4561d24"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Ringing Fate",
+    "year": 2025,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "The Fate of Agony",
+    "song_title_original": "The Fate of Agony",
+    "artist_romaji": "Mika Kobayashi",
+    "artist_original": "",
+    "composer_romaji": "Ryoshi Takagi",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "7",
+    "time_start": "21:32",
+    "time_end": "22:09",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/57371",
+    "issues": [],
+    "notes": "OST Tr3",
+    "id": "1761579264801-dd5fa075"
   }
 ]

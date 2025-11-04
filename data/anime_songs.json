@@ -2630,7 +2630,9 @@
     "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29247",
     "mal_url": "https://myanimelist.net/anime/56146",
-    "issues": [],
+    "issues": [
+      "unconfirmed"
+    ],
     "notes": "Also played at:\nEp 3 7:31-8:54, 83s",
     "id": "1761403854479-e901afc6"
   },

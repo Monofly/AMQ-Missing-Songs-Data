@@ -3049,7 +3049,9 @@
     "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28894",
     "mal_url": "https://myanimelist.net/anime/55848",
-    "issues": [],
+    "issues": [
+      "mismatch_audio"
+    ],
     "notes": "OST Tr29\nNot sure if editable",
     "id": "1761403854479-1b2843c7"
   },

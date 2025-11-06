@@ -6991,5 +6991,30 @@
     "issues": [],
     "notes": "OST 2",
     "id": "1762414189311-ce4c9b80"
+  },
+  {
+    "anime_en": "Let's Play",
+    "anime_romaji": "Let's Play: Quest-darake no My Life",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "6",
+    "time_start": "16:49",
+    "time_end": "19:44",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30375",
+    "mal_url": "https://myanimelist.net/anime/61773",
+    "issues": [],
+    "notes": "Might not be allowed",
+    "id": "1762444142430-2312121e"
   }
 ]

@@ -6891,5 +6891,30 @@
     "issues": [],
     "notes": "Cutout at 5:39-5:44, 5s\nAlso played at:\nEp 5 13:02-13:48, 46s",
     "id": "1762407190290-bd66eb02"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "5",
+    "time_start": "14:49",
+    "time_end": "15:09",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "",
+    "id": "1762407216327-9b10e568"
   }
 ]

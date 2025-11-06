@@ -7016,5 +7016,30 @@
     "issues": [],
     "notes": "Might not be allowed",
     "id": "1762444142430-2312121e"
+  },
+  {
+    "anime_en": "Dragon Raja II -The Mourner's Eyes",
+    "anime_romaji": "Ryuzoku II: The Mourner's Eyes",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "MSQT",
+    "song_title_original": "MSQT",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "Shiro SAGISU",
+    "composer_original": "",
+    "arranger_romaji": "Shiro SAGISU",
+    "arranger_original": "",
+    "episode": "5",
+    "time_start": "6:00",
+    "time_end": "8:12",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/59662/Long_Zu_II__Daowangzhe_Zhi_Tong",
+    "issues": [],
+    "notes": "OST 8",
+    "id": "1762446516621-2c495782"
   }
 ]

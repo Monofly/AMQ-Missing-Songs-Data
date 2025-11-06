@@ -6866,5 +6866,30 @@
     "issues": [],
     "notes": "",
     "id": "1762339684044-1c47e10c"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "All or None",
+    "song_title_original": "All or None",
+    "artist_romaji": "Hidetake Takayama feat. Jua",
+    "artist_original": "Hidetake Takayama feat. Jua",
+    "composer_romaji": "HIDETAKE TAKAYAMA",
+    "composer_original": "HIDETAKE TAKAYAMA",
+    "arranger_romaji": "HIDETAKE TAKAYAMA",
+    "arranger_original": "HIDETAKE TAKAYAMA",
+    "episode": "5",
+    "time_start": "4:39",
+    "time_end": "6:27",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "Cutout at 5:39-5:44, 5s\nAlso played at:\nEp 5 13:02-13:48, 46s",
+    "id": "1762407190290-bd66eb02"
   }
 ]

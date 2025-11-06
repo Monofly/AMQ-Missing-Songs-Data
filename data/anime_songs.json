@@ -6941,5 +6941,30 @@
     "issues": [],
     "notes": "Cutout at:\n8:27-8:41, 14s\n9:13-9:18, 5s\n9:40-9:44, 4s",
     "id": "1762407302107-9fc41773"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Übel Blatt",
+    "year": 2025,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Revenge of the Forest of Death",
+    "song_title_original": "Revenge of the Forest of Death",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "Shun Narita",
+    "composer_original": "",
+    "arranger_romaji": "Shun Narita",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "9:17",
+    "time_end": "10:31",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32211",
+    "mal_url": "https://myanimelist.net/anime/58216",
+    "issues": [],
+    "notes": "OST 1",
+    "id": "1762413650272-e244db2a"
   }
 ]

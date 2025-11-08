@@ -7441,5 +7441,30 @@
     "issues": [],
     "notes": "OST 2-29",
     "id": "1762615864201-86f9956b"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Fujimoto Tatsuki 17-26",
+    "year": 2025,
+    "season": "Fall",
+    "type": "ED",
+    "song_title_romaji": "Imouto no Ane",
+    "song_title_original": "妹の姉",
+    "artist_romaji": "KOCHO",
+    "artist_original": "KOCHO",
+    "composer_romaji": "Masahiro Tokuda",
+    "composer_original": "得田真裕",
+    "arranger_romaji": "Masahiro Tokuda",
+    "arranger_original": "得田真裕",
+    "episode": "8",
+    "time_start": "16:45",
+    "time_end": "18:15",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=37753",
+    "mal_url": "https://myanimelist.net/anime/62405",
+    "issues": [],
+    "notes": "OST 2-31",
+    "id": "1762615945348-32c62411"
   }
 ]

@@ -7541,5 +7541,30 @@
     "issues": [],
     "notes": "https://vgmdb.net/album/138945\nSong 4",
     "id": "1762775645701-783e2a18"
+  },
+  {
+    "anime_en": "A Day in the Life of the Conductor",
+    "anime_romaji": "Shashou no Ichinichi",
+    "year": 2024,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "Love me when this era ends",
+    "song_title_original": "Love me when this era ends",
+    "artist_romaji": "Marc Kooel",
+    "artist_original": "Marc Kooel",
+    "composer_romaji": "TetraCalyx",
+    "composer_original": "TetraCalyx",
+    "arranger_romaji": "TetraCalyx",
+    "arranger_original": "TetraCalyx",
+    "episode": "2",
+    "time_start": "0:25",
+    "time_end": "1:34",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/62872/Resonance__Lieche_Zhang_de_Yitian",
+    "issues": [],
+    "notes": "RESONANCE ~On the Rails Phase I~\nTrack 6",
+    "id": "1762776296108-8648d83c"
   }
 ]

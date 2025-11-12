@@ -7291,5 +7291,30 @@
     "issues": [],
     "notes": "",
     "id": "1762965762164-583faba2"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Passion",
+    "song_title_original": "Passion",
+    "artist_romaji": "URU feat. FUNI",
+    "artist_original": "URU feat. FUNI",
+    "composer_romaji": "URU, FUNI",
+    "composer_original": "URU, FUNI",
+    "arranger_romaji": "URU",
+    "arranger_original": "URU",
+    "episode": "6",
+    "time_start": "13:15",
+    "time_end": "14:06",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "",
+    "id": "1762965819559-b22f58a1"
   }
 ]

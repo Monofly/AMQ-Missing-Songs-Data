@@ -7316,5 +7316,30 @@
     "issues": [],
     "notes": "",
     "id": "1762965819559-b22f58a1"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Kujira",
+    "song_title_original": "くじら",
+    "artist_romaji": "Yaffle feat.Sahnya",
+    "artist_original": "Yaffle feat.Sahnya",
+    "composer_romaji": "Yaffle",
+    "composer_original": "Yaffle",
+    "arranger_romaji": "Yaffle",
+    "arranger_original": "Yaffle",
+    "episode": "6",
+    "time_start": "18:22",
+    "time_end": "21:37",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "Cutoff at 20:40-20:46, 6s",
+    "id": "1762965951086-2ef68189"
   }
 ]

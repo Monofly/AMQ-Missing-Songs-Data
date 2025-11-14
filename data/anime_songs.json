@@ -7391,5 +7391,30 @@
     "issues": [],
     "notes": "Could use show audio?",
     "id": "1763113849209-d685ee1f"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Mahou Shoujo holoWitch! The Stage: Trick or Magic!",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Kasukana Yuuhi",
+    "song_title_original": "微かな夕陽",
+    "artist_romaji": "Mahou Shoujo holoWitch!",
+    "artist_original": "魔法少女ホロウィッチ！",
+    "composer_romaji": "Yuki Hidaka",
+    "composer_original": "日高勇輝",
+    "arranger_romaji": "Yuki Hidaka",
+    "arranger_original": "日高勇輝",
+    "episode": "1",
+    "time_start": "17:11",
+    "time_end": "19:15",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/62882/Mahou_Shoujo_holoWitch_The_Stage__Trick_or_Magic",
+    "issues": [],
+    "notes": "",
+    "id": "1763113915159-7d7583fd"
   }
 ]

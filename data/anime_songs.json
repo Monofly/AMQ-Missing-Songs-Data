@@ -7466,5 +7466,30 @@
     "issues": [],
     "notes": "Could use show audio?",
     "id": "1763114123239-8aa6c471"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Mahou Shoujo holoWitch! The Stage: Trick or Magic!",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "Hajimari no Mahou -charm-",
+    "song_title_original": "はじまりの魔法-charm-",
+    "artist_romaji": "Mahou Shoujo holoWitch!",
+    "artist_original": "魔法少女ホロウィッチ！",
+    "composer_romaji": "Keita Miyoshi",
+    "composer_original": "三好啓太",
+    "arranger_romaji": "Keita Miyoshi",
+    "arranger_original": "三好啓太",
+    "episode": "1",
+    "time_start": "36:56",
+    "time_end": "40:16",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "",
+    "mal_url": "https://myanimelist.net/anime/62882/Mahou_Shoujo_holoWitch_The_Stage__Trick_or_Magic",
+    "issues": [],
+    "notes": "",
+    "id": "1763114213341-cbb72b1c"
   }
 ]

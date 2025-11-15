@@ -7566,5 +7566,30 @@
     "issues": [],
     "notes": "Audio from show",
     "id": "1763227310190-5395cb1c"
+  },
+  {
+    "anime_en": "Tojima Wants to Be a Kamen Rider",
+    "anime_romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "It's My Justice",
+    "song_title_original": "It's My Justice",
+    "artist_romaji": "TeddyLoid (Altervoice) feat. Taketo",
+    "artist_original": "",
+    "composer_romaji": "TeddyLoid",
+    "composer_original": "",
+    "arranger_romaji": "TeddyLoid",
+    "arranger_original": "",
+    "episode": "7",
+    "time_start": "18:50",
+    "time_end": "20:53",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=35007",
+    "mal_url": "https://myanimelist.net/anime/61159",
+    "issues": [],
+    "notes": "40s longer than in game",
+    "id": "1763230945239-f226e513"
   }
 ]

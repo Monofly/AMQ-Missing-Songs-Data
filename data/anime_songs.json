@@ -7566,5 +7566,30 @@
     "issues": [],
     "notes": "Audio from show",
     "id": "1763300708764-0f850378"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Princession Orchestra",
+    "year": 2025,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "30",
+    "time_start": "21:12",
+    "time_end": "21:58",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32811",
+    "mal_url": "https://myanimelist.net/anime/59078",
+    "issues": [],
+    "notes": "",
+    "id": "1763310250097-911af05e"
   }
 ]

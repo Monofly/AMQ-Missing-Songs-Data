@@ -7691,5 +7691,30 @@
     "issues": [],
     "notes": "Check lyrics",
     "id": "1763705380119-e709b700"
+  },
+  {
+    "anime_en": "Dusk Beyond the End of the World",
+    "anime_romaji": "Towa no Yuugure",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "8",
+    "time_start": "3:55",
+    "time_end": "5:01",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=36758",
+    "mal_url": "https://myanimelist.net/anime/61917/Towa_no_Yuugure",
+    "issues": [],
+    "notes": "",
+    "id": "1763710916666-c2e6c0c0"
   }
 ]

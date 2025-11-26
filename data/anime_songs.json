@@ -7705,7 +7705,9 @@
     "clean_available": true,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/62501/Chiisana_Jam_to_Goblin_no_Opp",
-    "issues": [],
+    "issues": [
+      "bad_quality"
+    ],
     "notes": "",
     "id": "1764149198784-0850690e"
   }

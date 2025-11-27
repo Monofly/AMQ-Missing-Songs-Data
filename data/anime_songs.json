@@ -745,7 +745,9 @@
     "clean_available": true,
     "ann_url": "",
     "mal_url": "https://myanimelist.net/anime/62112/Chika%E2%98%86Chika_Idol_PV",
-    "issues": [],
+    "issues": [
+      "PV"
+    ],
     "notes": "",
     "id": "1761403854479-82b4fe68"
   },

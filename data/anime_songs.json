@@ -1597,7 +1597,9 @@
     "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34019",
     "mal_url": "https://myanimelist.net/anime/59113",
-    "issues": [],
+    "issues": [
+      "inst_heavy"
+    ],
     "notes": "Also played at:\nEp 12 6:42-8:21, 99s",
     "id": "1761403854479-9c027720"
   },

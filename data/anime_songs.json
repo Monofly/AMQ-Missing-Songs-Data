@@ -8013,7 +8013,9 @@
     "clean_available": true,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34103",
     "mal_url": "https://myanimelist.net/anime/60427",
-    "issues": [],
+    "issues": [
+      "need_inst"
+    ],
     "notes": "",
     "id": "1764439998927-58ff36bc"
   },

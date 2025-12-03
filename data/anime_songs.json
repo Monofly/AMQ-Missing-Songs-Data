@@ -8293,5 +8293,30 @@
     "issues": [],
     "notes": "Ondo",
     "id": "1764760357082-d4b3c5ba"
+  },
+  {
+    "anime_en": "Chocchan's Story",
+    "anime_romaji": "Chocchan Monogatari",
+    "year": 1996,
+    "season": "Winter",
+    "type": "OP",
+    "song_title_romaji": "Habanera",
+    "song_title_original": "",
+    "artist_romaji": "Toyoko Nakajima feat. Shin-Tomin Gasshou-dan Yuushi",
+    "artist_original": "",
+    "composer_romaji": "Georges Bizet",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "0:07",
+    "time_end": "2:08",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4462",
+    "mal_url": "https://myanimelist.net/anime/4201",
+    "issues": [],
+    "notes": "Longer than in AMQ",
+    "id": "1764760414876-545228c6"
   }
 ]

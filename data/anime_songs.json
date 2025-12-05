@@ -7943,5 +7943,30 @@
     "issues": [],
     "notes": "Prob clean from show",
     "id": "1764931676791-33221b3e"
+  },
+  {
+    "anime_en": "Akujiki Reijou to Kyouketsu Koushaku",
+    "anime_romaji": "Pass the Monster Meat, Milady!",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "10",
+    "time_start": "9:44",
+    "time_end": "11:22",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33800",
+    "mal_url": "https://myanimelist.net/anime/60162",
+    "issues": [],
+    "notes": "Check lyrics",
+    "id": "1764951664327-c72b46ab"
   }
 ]

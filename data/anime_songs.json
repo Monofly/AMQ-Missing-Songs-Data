@@ -8118,5 +8118,30 @@
     "issues": [],
     "notes": "There's a chance it could've started at 18:17, not sure",
     "id": "1765384835878-5991a190"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "DANCE THE NIGHT AWAY",
+    "song_title_original": "DANCE THE NIGHT AWAY",
+    "artist_romaji": "URU feat. Yoshi",
+    "artist_original": "URU feat. Yoshi",
+    "composer_romaji": "URU",
+    "composer_original": "URU",
+    "arranger_romaji": "URU",
+    "arranger_original": "URU",
+    "episode": "10",
+    "time_start": "3:41",
+    "time_end": "4:10",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "",
+    "id": "1765431968498-df3032dd"
   }
 ]

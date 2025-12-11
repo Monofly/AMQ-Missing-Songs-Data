@@ -8168,5 +8168,30 @@
     "issues": [],
     "notes": "Around 30s longer than in game? Not sure if should be replaced.",
     "id": "1765432137974-d0b0b2ac"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "I'm just into",
+    "song_title_original": "I'm just into",
+    "artist_romaji": "Black Boboi",
+    "artist_original": "Black Boboi",
+    "composer_romaji": "Black Boboi",
+    "composer_original": "Black Boboi",
+    "arranger_romaji": "Black Boboi",
+    "arranger_original": "Black Boboi",
+    "episode": "10",
+    "time_start": "13:17",
+    "time_end": "15:47",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "",
+    "id": "1765432184545-30f1487e"
   }
 ]

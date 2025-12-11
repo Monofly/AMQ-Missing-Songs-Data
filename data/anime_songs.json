@@ -8193,5 +8193,30 @@
     "issues": [],
     "notes": "",
     "id": "1765432184545-30f1487e"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Wandance",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "DOGS WILL BE DOGS",
+    "song_title_original": "DOGS WILL BE DOGS",
+    "artist_romaji": "GZO",
+    "artist_original": "GZO",
+    "composer_romaji": "GZO, KAY, Yota Chida",
+    "composer_original": "GZO, KAY, Yota Chida",
+    "arranger_romaji": "KAY",
+    "arranger_original": "KAY",
+    "episode": "10",
+    "time_start": "19:00",
+    "time_end": "21:36",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33359",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "issues": [],
+    "notes": "Much longer than in game, full song.",
+    "id": "1765432274250-6166b102"
   }
 ]

@@ -8243,5 +8243,30 @@
     "issues": [],
     "notes": "OST 19",
     "id": "1765442809669-760b584f"
+  },
+  {
+    "anime_en": "Let's Play",
+    "anime_romaji": "Let's Play: Quest-darake no My Life",
+    "year": 2025,
+    "season": "Fall",
+    "type": "Insert",
+    "song_title_romaji": "RUMINATE",
+    "song_title_original": "RUMINATE",
+    "artist_romaji": "Night Tempo feat. Mizuki Kandai",
+    "artist_original": "Night Tempo feat. Mizuki Kandai",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "11",
+    "time_start": "18:00",
+    "time_end": "19:02",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=30375",
+    "mal_url": "https://myanimelist.net/anime/61773",
+    "issues": [],
+    "notes": "",
+    "id": "1765447372644-2e2dc272"
   }
 ]

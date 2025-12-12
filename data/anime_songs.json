@@ -8668,5 +8668,30 @@
     "issues": [],
     "notes": "Duplicate @ ANN 27861",
     "id": "1765560668104-f76a72f5"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Tougen Anki",
+    "year": 2025,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Momotarou no Chi",
+    "song_title_original": "桃太郎 の 血",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "KOHTA YAMAMOTO",
+    "composer_original": "",
+    "arranger_romaji": "KOHTA YAMAMOTO",
+    "arranger_original": "",
+    "episode": "22",
+    "time_start": "21:43",
+    "time_end": "22:23",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32714",
+    "mal_url": "https://myanimelist.net/anime/58811",
+    "issues": [],
+    "notes": "OST D1-13",
+    "id": "1765566911436-9a3bcf1e"
   }
 ]

@@ -8518,5 +8518,30 @@
     "issues": [],
     "notes": "Duplicate @ ANN 27861",
     "id": "1765559986006-59e97521"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "BanG Dream! It's MyGO!!!!! Movie",
+    "year": 2024,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Utakotoba",
+    "song_title_original": "",
+    "artist_romaji": "MyGO!!!!!",
+    "artist_original": "",
+    "composer_romaji": "Kenta Yokochi",
+    "composer_original": "",
+    "arranger_romaji": "Kenta Yokochi",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "55:42",
+    "time_end": "58:43",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31352",
+    "mal_url": "https://myanimelist.net/anime/57754",
+    "issues": [],
+    "notes": "Duplicate @ ANN 27861",
+    "id": "1765560082374-5f3ad450"
   }
 ]

@@ -8443,5 +8443,30 @@
     "issues": [],
     "notes": "",
     "id": "1765547914345-e3f69a88"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "BanG Dream! It's MyGO!!!!! Movie",
+    "year": 2024,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Here, the world!",
+    "song_title_original": "",
+    "artist_romaji": "sumimi",
+    "artist_original": "",
+    "composer_romaji": "TAKAROT & Funk Uchino",
+    "composer_original": "",
+    "arranger_romaji": "TAKAROT",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "1:11:20",
+    "time_end": "1:12:04",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31352",
+    "mal_url": "https://myanimelist.net/anime/57754",
+    "issues": [],
+    "notes": "Duplicate of ANN 27861 & 29893",
+    "id": "1765548013235-80048b19"
   }
 ]

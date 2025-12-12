@@ -8468,5 +8468,30 @@
     "issues": [],
     "notes": "Duplicate of ANN 27861 & 29893\nAlso played at:\n36:37-37:09, 32s",
     "id": "1765548013235-80048b19"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "BanG Dream! It's MyGO!!!!! Movie",
+    "year": 2024,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Hekitenbansou",
+    "song_title_original": "碧天伴走",
+    "artist_romaji": "MyGO!!!!!",
+    "artist_original": "MyGO!!!!!",
+    "composer_romaji": "Ryuuhei Kinoshita",
+    "composer_original": "木下龍平",
+    "arranger_romaji": "Ryuuhei Kinoshita",
+    "arranger_original": "木下龍平",
+    "episode": "1",
+    "time_start": "1:44:08",
+    "time_end": "1:47:44",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31352",
+    "mal_url": "https://myanimelist.net/anime/57754",
+    "issues": [],
+    "notes": "",
+    "id": "1765548159664-7d0c7c3d"
   }
 ]

@@ -8568,5 +8568,30 @@
     "issues": [],
     "notes": "Duplicate @ ANN 27861 & 24155",
     "id": "1765560142433-53a1deaa"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "BanG Dream! It's MyGO!!!!! Movie",
+    "year": 2024,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Mayoi Uta",
+    "song_title_original": "",
+    "artist_romaji": "MyGO!!!!!",
+    "artist_original": "",
+    "composer_romaji": "Daisuke Hasegawa",
+    "composer_original": "",
+    "arranger_romaji": "Daisuke Hasegawa",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "1:23:51",
+    "time_end": "1:27:10",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31352",
+    "mal_url": "https://myanimelist.net/anime/57754",
+    "issues": [],
+    "notes": "",
+    "id": "1765560193520-fcbb85e0"
   }
 ]

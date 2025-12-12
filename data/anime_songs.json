@@ -8643,5 +8643,30 @@
     "issues": [],
     "notes": "",
     "id": "1765560623879-e2532ce2"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "BanG Dream! It's MyGO!!!!! Movie",
+    "year": 2024,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Hitoshizuku",
+    "song_title_original": "",
+    "artist_romaji": "MyGO!!!!!",
+    "artist_original": "",
+    "composer_romaji": "hisakuni",
+    "composer_original": "",
+    "arranger_romaji": "hisakuni",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "1:56:23",
+    "time_end": "1:59:28",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31352",
+    "mal_url": "https://myanimelist.net/anime/57754",
+    "issues": [],
+    "notes": "Duplicate @ ANN 27861",
+    "id": "1765560668104-f76a72f5"
   }
 ]

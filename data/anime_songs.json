@@ -8543,5 +8543,30 @@
     "issues": [],
     "notes": "Duplicate @ ANN 27861",
     "id": "1765560082374-5f3ad450"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "BanG Dream! It's MyGO!!!!! Movie",
+    "year": 2024,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "Sasanqua",
+    "song_title_original": "",
+    "artist_romaji": "Afterglow",
+    "artist_original": "",
+    "composer_romaji": "Hitoshi Fujima",
+    "composer_original": "",
+    "arranger_romaji": "Hitoshi Fujima",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "1:19:50",
+    "time_end": "1:21:48",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31352",
+    "mal_url": "https://myanimelist.net/anime/57754",
+    "issues": [],
+    "notes": "Duplicate @ ANN 27861 & 24155",
+    "id": "1765560142433-53a1deaa"
   }
 ]

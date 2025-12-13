@@ -8693,5 +8693,30 @@
     "issues": [],
     "notes": "OST D1-13",
     "id": "1765566911436-9a3bcf1e"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Ishura",
+    "year": 2025,
+    "season": "Winter",
+    "type": "OP",
+    "song_title_romaji": "Move ahead",
+    "song_title_original": "Move ahead",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "Masahiro Tokuda",
+    "composer_original": "",
+    "arranger_romaji": "Masahiro Tokuda",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "0:26",
+    "time_end": "2:11",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32519",
+    "mal_url": "https://myanimelist.net/anime/58484/",
+    "issues": [],
+    "notes": "OST 10",
+    "id": "1765596994456-02d1c72c"
   }
 ]

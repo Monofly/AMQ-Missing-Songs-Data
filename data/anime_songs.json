@@ -9319,7 +9319,9 @@
     "clean_available": false,
     "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7094",
     "mal_url": "https://myanimelist.net/anime/23613",
-    "issues": [],
+    "issues": [
+      "high_fps"
+    ],
     "notes": "",
     "id": "1765637670050-2a6ab6d3"
   }

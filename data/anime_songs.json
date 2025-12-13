@@ -8918,5 +8918,30 @@
     "issues": [],
     "notes": "Unsure if clean enough in show",
     "id": "1765599921382-450f20f7"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Kurayukaba",
+    "year": 2024,
+    "season": "Spring",
+    "type": "Insert",
+    "song_title_romaji": "Ukina Zange",
+    "song_title_original": "浮名ざんげ",
+    "artist_romaji": "Katsutaro Kouta",
+    "artist_original": "小唄勝太郎",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "2:59",
+    "time_end": "4:30",
+    "unidentified": false,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24480",
+    "mal_url": "https://myanimelist.net/anime/56553",
+    "issues": [],
+    "notes": "Include:\n6:07-6:32, 25s",
+    "id": "1765603741519-83c0eddb"
   }
 ]

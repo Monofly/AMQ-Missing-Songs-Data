@@ -9243,5 +9243,30 @@
     "issues": [],
     "notes": "Prob clean from show?",
     "id": "1765611803505-316f01d6"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Kakkun Cafe",
+    "year": 1984,
+    "season": "Summer",
+    "type": "OP",
+    "song_title_romaji": "Mouretsu!! Kakkun Roll",
+    "song_title_original": "猛烈!!カックンロール",
+    "artist_romaji": "Hirosuke",
+    "artist_original": "",
+    "composer_romaji": "Taiji Nakamura",
+    "composer_original": "",
+    "arranger_romaji": "Toshiharu Jitsukawa",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "2:41",
+    "time_end": "4:59",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7094",
+    "mal_url": "https://myanimelist.net/anime/23613",
+    "issues": [],
+    "notes": "",
+    "id": "1765637511305-4acdd78f"
   }
 ]

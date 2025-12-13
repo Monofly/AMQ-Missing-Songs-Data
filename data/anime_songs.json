@@ -9118,5 +9118,30 @@
     "issues": [],
     "notes": "OST D2-5",
     "id": "1765609097028-6862dbb6"
+  },
+  {
+    "anime_en": "Medaka Kuroiwa is Impervious to My Charms",
+    "anime_romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+    "year": 2025,
+    "season": "Winter",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "2",
+    "time_start": "21:17",
+    "time_end": "22:14",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32732",
+    "mal_url": "https://myanimelist.net/anime/58853",
+    "issues": [],
+    "notes": "",
+    "id": "1765609427419-65b11120"
   }
 ]

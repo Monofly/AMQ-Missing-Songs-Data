@@ -9379,5 +9379,32 @@
     ],
     "notes": "",
     "id": "1765637953048-38b68918"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Kakkun Cafe",
+    "year": 1984,
+    "season": "Summer",
+    "type": "Insert",
+    "song_title_romaji": "",
+    "song_title_original": "",
+    "artist_romaji": "",
+    "artist_original": "",
+    "composer_romaji": "",
+    "composer_original": "",
+    "arranger_romaji": "",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "39:24",
+    "time_end": "42:54",
+    "unidentified": true,
+    "clean_available": false,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7094",
+    "mal_url": "https://myanimelist.net/anime/23613",
+    "issues": [
+      "high_fps"
+    ],
+    "notes": "",
+    "id": "1765638039679-db8b24fb"
   }
 ]

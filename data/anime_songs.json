@@ -9268,5 +9268,32 @@
     "issues": [],
     "notes": "",
     "id": "1765637511305-4acdd78f"
+  },
+  {
+    "anime_en": "",
+    "anime_romaji": "Kakkun Cafe",
+    "year": 1984,
+    "season": "Summer",
+    "type": "ED",
+    "song_title_romaji": "Kou Iccha Nan dakedo...",
+    "song_title_original": "こういっちゃナンだけど…",
+    "artist_romaji": "Kenichi Nagira",
+    "artist_original": "",
+    "composer_romaji": "Toshiharu Jitsukawa",
+    "composer_original": "",
+    "arranger_romaji": "Toshiharu Jitsukawa",
+    "arranger_original": "",
+    "episode": "1",
+    "time_start": "55:37",
+    "time_end": "59:14",
+    "unidentified": false,
+    "clean_available": true,
+    "ann_url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7094",
+    "mal_url": "https://myanimelist.net/anime/23613",
+    "issues": [
+      "speaking"
+    ],
+    "notes": "Not sure if this is considered music",
+    "id": "1765637608282-090bd6e5"
   }
 ]
